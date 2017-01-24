@@ -46,3 +46,6 @@ This project demonstrates how to use Flutter to build Android project within an 
 Import the project to **Intellij IDEA** and then select an Android device to run.
 ![flutter app with Android AAR](http://www.codepool.biz/wp-content/uploads/2017/01/flutter-barcode-reader-small.png)
 
+## Blog
+[Flutter Programming with Android AAR File](http://www.codepool.biz/flutter-programming-android-aar-file.html)
+
